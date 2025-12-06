@@ -1,4 +1,5 @@
-    // Seleciona o formulário pelo id
+   /*
+   // Seleciona o formulário pelo id
     const form = document.getElementById('contato-form'); // Pega o elemento <form>
     const msgRetorno = document.getElementById('msg-retorno'); // Pega o parágrafo onde vamos mostrar mensagens
 
@@ -40,3 +41,4 @@
         msgRetorno.classList.add('text-danger');
       }
     });
+*/
